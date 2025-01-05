@@ -1,0 +1,5 @@
+# Ignore key, certificate, and PEM files
+*.key
+*.crt
+*.pem
+.DS_Store
